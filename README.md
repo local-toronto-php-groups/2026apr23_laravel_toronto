@@ -1,3 +1,5 @@
+![header_image](https://raw.githubusercontent.com/local-toronto-php-groups/2026apr23_laravel_toronto/main/scotia_arena1_2026mar26.png)
+
 # Laravel Toronto meet-up, Apr 23/2026
 
 Laravel Toronto meet-up, Apr 23, 2026 (multiple AI presentations)
