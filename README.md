@@ -1,4 +1,6 @@
-![header_image](https://raw.githubusercontent.com/local-toronto-php-groups/2026apr23_laravel_toronto/main/scotia_arena1_2026mar26.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/local-toronto-php-groups/2026apr23_laravel_toronto/main/scotia_arena1_2026mar26.png" width="500"/>
+</p>
 
 # Laravel Toronto meet-up, Apr 23/2026
 
