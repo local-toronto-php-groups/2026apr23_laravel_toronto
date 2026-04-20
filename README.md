@@ -19,7 +19,10 @@ This month, Rushi, Developer Extraordinaire at Vetster, will fill us in on Vetst
 
 Last month's hackathon, focusing on Laravel's new AI package, went right to the end. So, we did not have a chance to share the experience. No one there approached the coding the same way. It was very interesting, and I want to ask those who were there about this. 
 
+Elizabeth Barron, Executive Director of the PHP Foundation, will be introducing herself, and taking questions, at the top of our meet-up. 
+
 I want to do a lightening talk on my using CloudFlare Pages as a front-end for my Laravel 13 API. My inspiration for Pages comes from Cloudflare's new "EmDash" CMS, introduced by this provocative title: [Introducing EmDash — the spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/). 
+
 
 I have received discounts for the upcoming PHP Tek conference next month in Chicago. This discount is an effing big discount for the VIRTUAL TICKET. So you do not have to get yourself to O'Hare's Sheraton. With this discount, the Virtual Ticket is CHEAPER in Canuck Bucks than the regular price in USD. Thank you, PHP TEK! If you do go to Chicago, word to the wise... do not ask for ketchup on your hot dog.
 
