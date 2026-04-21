@@ -36,5 +36,8 @@ Schedule:
 - 6:00pm to 7:00pm: meet-and-greet
 - 7:00pm to 9:00pm: presentation
 
-#
+## 
 Event at meetup.com: [https://www.meetup.com/laravel-toronto/events/314163752/](https://www.meetup.com/laravel-toronto/events/314163752/)
+
+## 
+- [https://thephp.foundation/blog/2026/04/16/integrating-community-feedback-into-foundation-strategy-part1/](https://thephp.foundation/blog/2026/04/16/integrating-community-feedback-into-foundation-strategy-part1/)
