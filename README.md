@@ -41,3 +41,4 @@ Event at meetup.com: [https://www.meetup.com/laravel-toronto/events/314163752/](
 
 ## 
 - [https://thephp.foundation/blog/2026/04/16/integrating-community-feedback-into-foundation-strategy-part1/](https://thephp.foundation/blog/2026/04/16/integrating-community-feedback-into-foundation-strategy-part1/)
+- [Elizabeth is on the cover of April's PHP Architect Magazine -- article is available as a free PDF](https://www.phparch.com/wp-content/uploads/2026/04/A-Deep-Dive-With-Elizabeth-Barron.pdf)
